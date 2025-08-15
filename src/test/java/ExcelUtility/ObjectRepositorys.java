@@ -8,6 +8,7 @@ import java.util.Properties;
 public class ObjectRepositorys {
 	
 	Properties properties;
+	Properties properties1;
 	FileInputStream fis;
 	String filePath ="./ExternalFiles/Object.properties";
 	
